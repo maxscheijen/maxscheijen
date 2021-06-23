@@ -4,8 +4,8 @@ I work on machine learning systems. Currently I'm a Data Scientist at a healthca
 
 I am interested in:
 
-* 🌐 Natural language processing
-* 🚀 Designing reproducible machine learning systems.
-* ♻️ Bringing machine learning products into production.
+* 🌐  Natural language processing
+* 🚀  Designing reproducible machine learning systems.
+* ♻️  Bringing machine learning products into production.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/maxscheijen?label=Follow&style=social)](https://twitter.com/maxscheijen) ![Profile views](https://gpvc.arturio.dev/maxscheijen)
