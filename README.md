@@ -7,7 +7,7 @@ I am interested in:
 * 🌐  Natural language processing
 * 🚀  Designing reproducible machine learning systems.
 * ♻️  Bringing machine learning products into production.
-* ✍️ Blog at https://maxscheijen.github.io/
+* ✍️ Blog at https://maxscheijen.com
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/maxscheijen?label=Follow&style=social)](https://twitter.com/maxscheijen) ![Profile views](https://gpvc.arturio.dev/maxscheijen)
 
